@@ -1,0 +1,10 @@
+.main {
+    margin: 0 auto;
+    width: 800px;
+    font-family: Montserrat;
+}
+
+.title {
+    color: rgb(56, 56, 148);
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Montserrat;
+}
+
+.titleWrap {
+    margin: 0 auto;
+    background: rgba(255, 0, 0, .5);
+    width: 300px;
+    border-radius: 8px;
+}
